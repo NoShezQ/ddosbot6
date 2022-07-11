@@ -1,0 +1,9 @@
+Install:
+
+npm i cloudscraper
+
+npm i randomstring
+
+npm i ciphers
+
+npm i request
